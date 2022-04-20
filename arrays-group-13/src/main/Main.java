@@ -11,6 +11,8 @@ public class Main {
 		// bir array verilib bu arrayin daxilindeki butun elementleri 2 ci array-e klon edin
 		Scanner scanner=new Scanner(System.in);
 		System.out.println("eded daxil edin");
+		System.out.println("eded daxil edin2");
+
 		int number=scanner.nextInt();// 1
 		int[] arr=new int[] {1,2,5,10,9,6,7,8};
 		boolean check=false;
